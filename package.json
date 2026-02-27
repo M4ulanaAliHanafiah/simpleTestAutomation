@@ -1,0 +1,23 @@
+{
+  "name": "simpletestautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M4ulanaAliHanafiah/simpleTestAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/M4ulanaAliHanafiah/simpleTestAutomation/issues"
+  },
+  "homepage": "https://github.com/M4ulanaAliHanafiah/simpleTestAutomation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.2"
+  }
+}
